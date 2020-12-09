@@ -12,4 +12,4 @@
 • Deployed to Amazon EC2 for public accessibility.
 
 
-![](job-demo.gif)
+<img src="job-demo.gif" width="1080" height="1920" />
